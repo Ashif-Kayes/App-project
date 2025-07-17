@@ -1,4 +1,4 @@
-# event_scount_app
+# Tutor finded App
 
 A new Flutter project.
 
