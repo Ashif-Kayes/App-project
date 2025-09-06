@@ -1,4 +1,4 @@
-# Tutor finded App
+# Tutor finder App
 
 A new Flutter project.
 
